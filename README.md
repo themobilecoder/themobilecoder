@@ -1,5 +1,5 @@
 <h1 align="center">G'day! 👨🏾‍💻</h1>
-<h3> I am <a href="https://rafaelds.com">Raf</a> and I've been building software and mobile apps in Australia for more than 10 years 👴🏾 </h3>
+<h3 align="center"> I am <a href="https://rafaelds.com">Raf</a> and I've been building software and mobile apps in Australia for more than 10 years 👴🏾 </h3>
 </br>
 
 # Projects
