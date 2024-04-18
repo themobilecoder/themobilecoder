@@ -1,18 +1,21 @@
-<h1 align="center">Hi 👋, I'm Raf</h1>
-<h3 align="center">A mobile app developer from Australia</h3>
+<h1 align="center">G'day! 👨🏾‍💻</h1>
+<h3> I am <a href="https://rafaelds.com">Raf</a> and I've been building software and mobile apps in Australia for more than 10 years 👴🏾 </h3>
+</br>
 
-- 🔭 I’m currently working on the [Smart Hospitality App](https://www.youtube.com/watch?v=O8kQy5IwthU)
+# Projects
 
-- 👨‍💻 All of my projects are available at [https://rafaelds.com](https://rafaelds.com)
+Here are some of my works and projects that I've been involved with in the last few years.
 
-- 📝 I regularly write articles on [https://themobilecoder.com](https://themobilecoder.com)
+- 📱 [Commonwealth Bank of Australia's Smart Terminal for hospitality venues in Australia](https://www.youtube.com/watch?v=O8kQy5IwthU)
+- 💙 [Flutter app development tech blog @ themobilecoder.com](https://themobilecoder.com)
+- 🇦🇺 [Australian Citizenship Test app (iOS and Android)](https://australiantest.app)
+- 🎧 [Flutter package for detecting headset connections](https://pub.dev/packages/headset_connection_event)
+- 📻 [EZ Radio for listening to thousands of radio stations worldwide (iOS and Android)](https://play.google.com/store/apps/details?id=com.themobilecoder.ezradio&hl=en_AU&gl=US)
+- ⌨️ [Typewriter app for Flutter hackathon 2020](https://github.com/InkRibbonApp/inkribbonflutter)
+- 💰 [Tyro Payments' Smart Banking App (Android)](https://play.google.com/store/apps/details?id=com.tyro.merchantbanking&hl=en_AU&gl=US)
+- ..and more ⭐
+</br>
 
-- 📄 Know about my experiences [https://rafaelds.com](https://rafaelds.com)
+# Collaboration
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@themobilecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@themobilecoder" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+Are you looking to partner up on building beautiful apps? Hit me up on <a href="https://www.linkedin.com/in/rafael-delos-santos-35882989">Linkedin!</a>
