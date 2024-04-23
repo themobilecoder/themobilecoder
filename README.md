@@ -4,7 +4,7 @@
 
 # Projects
 
-Here are some of my works and projects that I've been involved with in the last few years.
+Here are some projects that I've been involved with in the last few years.
 
 - 📱 [Commonwealth Bank of Australia's Smart Terminal for hospitality venues in Australia](https://www.youtube.com/watch?v=O8kQy5IwthU)
 - 💙 [Flutter app development tech blog @ themobilecoder.com](https://themobilecoder.com)
