@@ -2,7 +2,7 @@
 <h3 align="center"> I am <a href="https://rafaelds.com">Raf</a> and I've been building software and mobile apps in Australia for more than 10 years 👴🏾 </h3>
 </br>
 
-# Projects
+# Recent Projects
 
 Here are some projects that I've been involved with in the last few years.
 
