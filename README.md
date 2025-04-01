@@ -1,5 +1,5 @@
 <h1 align="center">G'day! 👨🏾‍💻</h1>
-<h3 align="center"> I am <a href="https://rafaelds.com">Raf</a> and I've been building software and mobile apps in Australia for more than 10 years 👴🏾 </h3>
+<h3 align="center">I'm Raf and I build apps</h3>
 </br>
 
 # Recent Projects
@@ -16,7 +16,3 @@ Here are some projects that I've been involved with in the last few years.
 - 💰 [Tyro Payments' Smart Banking App (Android)](https://play.google.com/store/apps/details?id=com.tyro.merchantbanking&hl=en_AU&gl=US)
 - ..and more ⭐
 </br>
-
-# Collaboration
-
-Are you looking to partner up on building beautiful apps? Hit me up on <a href="https://www.linkedin.com/in/rafael-delos-santos-35882989">Linkedin</a> or at <a href="https://tmcapps.com">tmcapps.com</a>
